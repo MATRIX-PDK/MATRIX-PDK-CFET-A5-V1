@@ -63,7 +63,7 @@ library (GT_A5_svt_SSG_125C) {
     index_2 ("0.001, 0.002302, 0.006873, 0.0156, 0.0292, 0.04828, 0.07339, 0.105");
   }
   cell (gtA5_cfet_11_and2_x1_svt) {
-    area : 0;
+    area : 0.011232;
     cell_leakage_power : 0.000474571;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -467,7 +467,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_and2_x2_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000737835;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -871,7 +871,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_and2_x3_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.0010011;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -1275,7 +1275,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_and2_x4_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.00126436;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -1679,7 +1679,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_and3_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000459201;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -2451,7 +2451,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_ao211_x1_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000386227;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -4597,7 +4597,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_ao21_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.00045031;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -5724,7 +5724,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_ao22_x1_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.000548468;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -8516,7 +8516,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_ao31_x1_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.000462483;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -10630,7 +10630,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_ao32_x1_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000557823;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -15519,7 +15519,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_ao33_x1_svt) {
-    area : 0;
+    area : 0.022464;
     cell_leakage_power : 0.000560915;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -23855,7 +23855,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_aoi211_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.00025612;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -26001,7 +26001,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_aoi21_x1_svt) {
-    area : 0;
+    area : 0.011232;
     cell_leakage_power : 0.000275817;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -27128,7 +27128,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_aoi22_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000329586;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -29920,7 +29920,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_aoi31_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000273194;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -32034,7 +32034,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_aoi32_x1_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.000316748;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -36923,7 +36923,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_aoi33_x1_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000293948;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -45259,7 +45259,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_buf_x10_svt) {
-    area : 0;
+    area : 0.039312;
     cell_leakage_power : 0.00265304;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -45443,7 +45443,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_buf_x12_svt) {
-    area : 0;
+    area : 0.044928;
     cell_leakage_power : 0.00306121;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -45627,7 +45627,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_buf_x1_svt) {
-    area : 0;
+    area : 0.008424;
     cell_leakage_power : 0.00040816;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -45811,7 +45811,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_buf_x2_svt) {
-    area : 0;
+    area : 0.011232;
     cell_leakage_power : 0.000612241;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -45995,7 +45995,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_buf_x3_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000816323;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -46179,7 +46179,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_buf_x4_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.0010204;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -46363,7 +46363,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_buf_x6_svt) {
-    area : 0;
+    area : 0.025272;
     cell_leakage_power : 0.00163264;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -46547,7 +46547,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_buf_x8_svt) {
-    area : 0;
+    area : 0.030888;
     cell_leakage_power : 0.00204081;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -46731,7 +46731,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_dffasync_x1_svt) {
-    area : 0;
+    area : 0.058968;
     cell_leakage_power : 0.00212021;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -49762,7 +49762,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_dffsyn_x1_svt) {
-    area : 0;
+    area : 0.061776;
     cell_leakage_power : 0.00248213;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -50311,7 +50311,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_dlatch_x1_svt) {
-    area : 0;
+    area : 0.02808;
     cell_leakage_power : 0.00105056;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -50861,7 +50861,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_ha_x1_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000595222;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -51856,7 +51856,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_inv_x10_svt) {
-    area : 0;
+    area : 0.030888;
     cell_leakage_power : 0.00204079;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -52040,7 +52040,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_inv_x12_svt) {
-    area : 0;
+    area : 0.036504;
     cell_leakage_power : 0.00244894;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -52224,7 +52224,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_inv_x1_svt) {
-    area : 0;
+    area : 0.005616;
     cell_leakage_power : 0.000204079;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -52408,7 +52408,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_inv_x2_svt) {
-    area : 0;
+    area : 0.008424;
     cell_leakage_power : 0.000408158;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -52592,7 +52592,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_inv_x3_svt) {
-    area : 0;
+    area : 0.011232;
     cell_leakage_power : 0.000612236;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -52776,7 +52776,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_inv_x4_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000816315;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -52960,7 +52960,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_inv_x6_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.00122447;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -53144,7 +53144,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_inv_x8_svt) {
-    area : 0;
+    area : 0.025272;
     cell_leakage_power : 0.00163263;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -53328,7 +53328,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nand2_x1_svt) {
-    area : 0;
+    area : 0.008424;
     cell_leakage_power : 0.000211307;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -53732,7 +53732,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nand2_x2_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000422614;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -54136,7 +54136,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nand2_x3_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.00063392;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -54540,7 +54540,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nand2_x4_svt) {
-    area : 0;
+    area : 0.025272;
     cell_leakage_power : 0.000845226;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -54944,7 +54944,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nand3_x1_svt) {
-    area : 0;
+    area : 0.011232;
     cell_leakage_power : 0.000166346;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -55716,7 +55716,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nor2_x1_svt) {
-    area : 0;
+    area : 0.008424;
     cell_leakage_power : 0.000234098;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -56120,7 +56120,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nor2_x2_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000468195;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -56524,7 +56524,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nor2_x3_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000702292;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -56928,7 +56928,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nor2_x4_svt) {
-    area : 0;
+    area : 0.025272;
     cell_leakage_power : 0.00093639;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -57332,7 +57332,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nor3_x1_svt) {
-    area : 0;
+    area : 0.011232;
     cell_leakage_power : 0.000208556;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -58104,7 +58104,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_nor3_x2_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000417112;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -58876,7 +58876,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oa211_x1_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.000500651;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -60958,7 +60958,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oa21_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000507913;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -62085,7 +62085,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oa22_x1_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.000543418;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -64877,7 +64877,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oa31_x1_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.000503717;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -67023,7 +67023,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oa32_x1_svt) {
-    area : 0;
+    area : 0.022464;
     cell_leakage_power : 0.00052965;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -71944,7 +71944,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oa33_x1_svt) {
-    area : 0;
+    area : 0.022464;
     cell_leakage_power : 0.000506798;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -80280,7 +80280,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oai211_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.00022259;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -82362,7 +82362,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oai21_x1_svt) {
-    area : 0;
+    area : 0.011232;
     cell_leakage_power : 0.000274238;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -83489,7 +83489,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oai22_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000354128;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -86281,7 +86281,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oai31_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000284838;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -88427,7 +88427,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oai32_x1_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.000362551;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -93348,7 +93348,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_oai33_x1_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000365592;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -101684,7 +101684,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_or2_x1_svt) {
-    area : 0;
+    area : 0.011232;
     cell_leakage_power : 0.000378999;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -102088,7 +102088,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_or2_x2_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.0005239;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -102492,7 +102492,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_or2_x3_svt) {
-    area : 0;
+    area : 0.016848;
     cell_leakage_power : 0.0006688;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -102896,7 +102896,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_or2_x4_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000813701;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -103300,7 +103300,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_or3_x1_svt) {
-    area : 0;
+    area : 0.014040;
     cell_leakage_power : 0.000323867;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -104072,7 +104072,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_xnor2_x1_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000595222;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -104678,7 +104678,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_xor2_x1_svt) {
-    area : 0;
+    area : 0.019656;
     cell_leakage_power : 0.000556462;
     pg_pin (VDD) {
       pg_type : primary_power;
@@ -105284,7 +105284,7 @@ library (GT_A5_svt_SSG_125C) {
     }
   }
   cell (gtA5_cfet_11_dffpos_x1_svt) {
-    area : 0;
+    area : 0.061776;
     cell_leakage_power : 0.00248213;
     pg_pin (VDD) {
       pg_type : primary_power;
